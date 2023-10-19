@@ -18,8 +18,8 @@ config = {
 	},
 
 	"jqdatasdk":{
-		"username":"18011887905",
-		"password":"Sscf2023"
+		"username":"18011887906",
+		"password":"sscf2023"
 	},
 
 	"tushare":{
@@ -34,7 +34,7 @@ config = {
 		"server": "smtp.qq.com",
     	"port": 465,
     	"username": "1031364477@qq.com",
-    	"password": "brkbgbsqnavzbeba"
+    	"password": "crkbgbsqnavzbeba"
 	},
 	
 }
